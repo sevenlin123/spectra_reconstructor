@@ -86,3 +86,8 @@ JWST NIRCam provides powerful multi-band photometry, but obtaining high-signal-t
 ## Data Sources
 *   NIRCam filter data: [STScI JWST Docs](https://jwst-docs.stsci.edu/jwst-near-infrared-camera/nircam-instrumentation/nircam-filters)
 *   Spectral models: DisCoTNO Survey / Neptune Trojan validation data.
+
+---
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
