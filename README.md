@@ -42,7 +42,7 @@ This project provides tools to bridge the gap between sparse photometric observa
 
 ### Prerequisites
 *   Python 3.10+
-*   [AutoGluon](https://autogluon.mx/)
+*   [AutoGluon](https://github.com/autogluon/autogluon)
 
 ### Setup
 Clone the repository and install dependencies:
